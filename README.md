@@ -1,4 +1,6 @@
 # Behinder
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffuzhufuzhu%2FBehinder.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffuzhufuzhu%2FBehinder?ref=badge_shield)
+
 “冰蝎”动态二进制加密网站管理客户端
 
 
@@ -38,3 +40,7 @@
 
   socks代理的端口不是开在远程服务器上的，是开在本地的，利用socks客户端直接连接本地IP的代理端口即可，冰蝎会把本地端口的流量通过http隧道透传至远程服务器网络。
   
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffuzhufuzhu%2FBehinder.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffuzhufuzhu%2FBehinder?ref=badge_large)
